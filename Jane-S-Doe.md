@@ -1,0 +1,1 @@
+Git is a version control system that tracks/records changes to a file. It enables you to recall specific versions later.
